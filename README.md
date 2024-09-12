@@ -1,2 +1,2 @@
 # Django_web_app
-Web App for Pet addoption
+Web App Platform for Pet adoption
